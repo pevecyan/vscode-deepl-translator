@@ -6,3 +6,5 @@ To get your extension running in all instances of VS Code, you need to copy it t
 Windows: %USERPROFILE%\.vscode\extensions
 
 macOS/Linux: $HOME/.vscode/extensions
+
+... and run npm install inside of that copied folder "%USERPROFILE%\.vscode\extensions\vscode-deepl-translation"
